@@ -2,6 +2,7 @@ import styled from 'styled-components';
 
 interface ContainerProps {
   size?: 'small' | 'large';
+  history: string;
 }
 
 export const Container = styled.div<ContainerProps>`
@@ -22,6 +23,7 @@ export const Container = styled.div<ContainerProps>`
         text-decoration: none;
         font-size: 16px;
         transition: opacity 0.2s;
+        padding-bottom: 10px;
 
         & + a {
           margin-left: 32px;
@@ -29,6 +31,15 @@ export const Container = styled.div<ContainerProps>`
 
         &:hover {
           opacity: 0.6;
+        }
+        &.listagem {
+          border-bottom: ${({ history }) =>
+            history === '/' ? '2px solid #FF872C' : 'none'};
+        }
+
+        &.importar {
+          border-bottom: ${({ history }) =>
+            history === '/import' ? '2px solid #FF872C' : 'none'};
         }
       }
     }
