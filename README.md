@@ -2,7 +2,7 @@
   Aplicação para criação de pedidos: Projeto REACT
 </h3>
 <h4 align="center">
-  Trabalhando com Upload de aruqivo .CSV
+  Trabalhando com Upload de arquivo.CSV
 </h4>
 
 <p align="center">
