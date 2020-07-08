@@ -6,9 +6,9 @@
 </h4>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/ejcosta12/studying-database-upload">
-  <img alt="javaScript" src="https://img.shields.io/github/languages/top/ejcosta12/studying-database-upload">
-  <img alt="Size" src="https://img.shields.io/github/repo-size/ejcosta12/studying-database-upload">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/ejcosta12/studying-react-project-financial">
+  <img alt="javaScript" src="https://img.shields.io/github/languages/top/ejcosta12/studying-react-project-financial">
+  <img alt="Size" src="https://img.shields.io/github/repo-size/ejcosta12/studying-react-project-financial">
 </p>
 
 ## Sobre
